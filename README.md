@@ -1,4 +1,4 @@
-# 🛡️ DotNet Module Cloaker (Anti-Dump / Anti-Debug)
+# 🛡️ DotNet Rename Modules (Anti-Dump / Anti-Debug)
 
 **Rename Modules** is a C# library for protecting .NET applications. It performs dynamic renaming of modules (DLL and EXE) in the process memory (PEB), masking them as system files.
 
