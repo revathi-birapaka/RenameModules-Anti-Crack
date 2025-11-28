@@ -23,7 +23,7 @@ using System.Text;
                     }
                 }
 
-                string[] suspiciousModules =
+                string[] searchModules =
                 {
                     "clr.dll",
                     "coreclr.dll",
@@ -34,7 +34,7 @@ using System.Text;
                     "System.Private.CoreLib.dll"
                 };
 
-                foreach (var moduleName in suspiciousModules)
+                foreach (var moduleName in searchModules)
                 {
                     string newDllName = GenerateRandomString(7) + ".sys";
 
@@ -179,4 +179,5 @@ using System.Text;
         [StructLayout(LayoutKind.Sequential)] private struct PEB_LDR_DATA { public uint Length; public byte Initialized; public IntPtr SsHandle; public LIST_ENTRY InLoadOrderModuleList; public LIST_ENTRY InMemoryOrderModuleList; public LIST_ENTRY InInitializationOrderModuleList; }
         [StructLayout(LayoutKind.Sequential)] private struct LIST_ENTRY { public IntPtr Flink; public IntPtr Blink; }
         [StructLayout(LayoutKind.Sequential)] private struct LDR_DATA_TABLE_ENTRY { public LIST_ENTRY InLoadOrderLinks; public LIST_ENTRY InMemoryOrderLinks; public LIST_ENTRY InInitializationOrderLinks; public IntPtr DllBase; public IntPtr EntryPoint; public uint SizeOfImage; public UNICODE_STRING FullDllName; public UNICODE_STRING BaseDllName; }
+
     }
